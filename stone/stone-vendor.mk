@@ -735,7 +735,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/stone/proprietary/vendor/lib64/libsynx.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsynx.so \
     vendor/xiaomi/stone/proprietary/vendor/lib64/libtfestriping.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtfestriping.so \
     vendor/xiaomi/stone/proprietary/vendor/lib64/libthreadutils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libthreadutils.so \
-    vendor/xiaomi/stone/proprietary/vendor/lib64/libvendor.goodix.hardware.biometrics.fingerprint@2.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvendor.goodix.hardware.biometrics.fingerprint@2.1.so \
     vendor/xiaomi/stone/proprietary/vendor/lib64/libvideofilter_only.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvideofilter_only.so \
     vendor/xiaomi/stone/proprietary/vendor/lib64/libvideooptfeature.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvideooptfeature.so \
     vendor/xiaomi/stone/proprietary/vendor/lib64/libvidhance.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvidhance.so \
